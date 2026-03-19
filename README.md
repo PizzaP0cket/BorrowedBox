@@ -1,8 +1,15 @@
 # BorrowedBox
 
-A desktop app for pulling BorrowBox audiobooks from your Android phone and converting them into `.m4b` audiobook files with chapters and cover art.
+Software for pulling BorrowBox audiobooks from your Android phone and converting them into `.m4b` audiobook files with embeded metadata (title, author, etc.), and cover art.
 
----
+> **Note:**
+> This project is intended for educational purposes only. Please respect copyright laws and the terms of service.
+
+![Last Updated](https://img.shields.io/github/last-commit/PizzaP0cket/BorrowedBox?label=Last%20Updated)
+![Repo Stars](https://img.shields.io/github/stars/PizzaP0cket/BorrowedBox?style=social)
+![Python](https://img.shields.io/badge/Python-3%2B-blue?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-009688?logo=windows&logoColor=white)
+![License](https://img.shields.io/github/license/aviiciii/tokybook?color=orange)
 
 ## What it does
 
