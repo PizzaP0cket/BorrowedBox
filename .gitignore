@@ -18,4 +18,5 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 config.json
+pull_log.json
 Library/
